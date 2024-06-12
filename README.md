@@ -1,2 +1,2 @@
 # Comprehensive-Analysis-of-Uber-Pickup-Trends-in-New-York-City
-This project delves into the patterns and insights of Uber pickups in New York City, leveraging a range of data science tools and techniques
+This project delves into the patterns and insights of Uber pickups in New York City, leveraging a range of data science tools and techniques.Through visualizations created using Matplotlib, Seaborn, and Plotly, this analysis provides a detailed overview of Uber's operational trends in New York City. Whether for strategic planning or operational optimization, these insights offer a valuable perspective on urban mobility patterns.
